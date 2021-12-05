@@ -1,16 +1,14 @@
-### Hi there 👋
+Learning DFIR, OSINT, and offensive security.
 
-<!--
-**Thapplou/thapplou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact me using the following methods: [Session](https://getsession.org), or [XMPP](https://xmpp.org/)
 
-Here are some ideas to get you started:
+## Session ID:
+0573ed31f3fdee565ee0d2e438c6655b6099077b41e565c03905281d1128acc326
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## XMPP:
+move [at] xmpp [dot] jp
+
+## Session QR Code:
+<p align="left">
+  <img src="https://files.catbox.moe/t5kzf7.png" width="200" height="200">
+</p>
